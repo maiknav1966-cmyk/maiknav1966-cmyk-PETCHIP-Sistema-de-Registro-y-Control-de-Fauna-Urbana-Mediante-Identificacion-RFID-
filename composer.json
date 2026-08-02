@@ -1,0 +1,7 @@
+{
+    "name": "petchip/petchip",
+    "description": "Dependencias de PetChip - Sistema de Control de Fauna Urbana",
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
+}
